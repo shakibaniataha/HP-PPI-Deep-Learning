@@ -1,0 +1,8 @@
+.venv
+venv
+.idea
+*.pot
+*.py[co]
+__pycache__
+MANIFEST
+MachineLearning/machine_data_*
